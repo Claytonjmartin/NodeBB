@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'nodebb-web-Forumdjgjqek7xtbtq'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_618C29C21D6342ACA9DE15052D470EC6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7959C622FDE4381BDBD8F54019AC685 }}
           package: .
